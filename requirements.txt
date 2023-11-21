@@ -1,0 +1,13 @@
+torch
+torchtext
+torchvision
+sentencepiece
+psutil
+future
+torchserve
+torch-model-archiver
+pyperclip
+transformers
+langdetect
+jieba
+sacremoses
